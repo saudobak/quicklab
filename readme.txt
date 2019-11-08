@@ -1,0 +1,2 @@
+Note:
+The textbook is designed with flexibilty in mind. After a student completes the Chapter 9 case study, they may work on the Chapter 11, Chapter 12, Chapter, 13, and Chapter 14 case studies in any order. The Instructor Case Study Solution files are provided based on sequential completion of the case studies. 
